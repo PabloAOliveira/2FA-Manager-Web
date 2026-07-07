@@ -1,6 +1,6 @@
 # 2FA Manager
 
-Interface web do **Meu 2FA**: cadastro, login, configuração de autenticação TOTP (QR code) e verificação step-up após login. Desenvolvido com Vue 3, Vuetify 4 e Vite.
+Interface web do **2FA Manager**: cadastro, login, configuração de autenticação TOTP (QR code) e verificação step-up após login. Desenvolvido com Vue 3, Vuetify 4 e Vite.
 
 O app mobile (Flutter) escaneia o QR e gera códigos offline; **este site** é responsável por registrar usuários, iniciar/confirmar o setup 2FA e validar códigos na sessão web.
 
