@@ -1,4 +1,4 @@
-# Meu 2FA — Site
+# 2FA Manager
 
 Interface web do **Meu 2FA**: cadastro, login, configuração de autenticação TOTP (QR code) e verificação step-up após login. Desenvolvido com Vue 3, Vuetify 4 e Vite.
 
